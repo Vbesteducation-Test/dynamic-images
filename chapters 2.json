@@ -1,0 +1,156 @@
+{
+  "data": {
+    "class6": {
+      "Maths": {
+        "chapters": ["Knowing our numbers", "Whole numbers", "Playing with numbers", "Basic Geometrical Ideas", "Measures of Lines and Angles", "Integers", "Fractions and Decimals", "Data Handling", "Introduction to Algebra", "Perimeter and Area", "Ration and Proportion", "Symmetry", "Practical Geometry", "Understanding 3D and 2D Shapes"]
+      },
+      "Science": {
+        "chapters": ["Our Food", "Playing With Magnets", "Rain: Where Does It Come From?", "What Do Animals  Eat?", "Materials and Things", "Habitat", "Separation of Substances", "Fibre to Fabric", "Plants: Parts and Functions", "Changes Arounds Us", "Water in Our Life", "Simple Electric Circuits", "Learning How to Measure", "Movements in Animals", "Light, shadows and Images", "Living and non-Living"]
+      },
+      "Social Studies": {
+        "chapters": ["Reading and Making Maps", "Globe A Model of the Earth", "Land Forms (Part A)", "Penamakuru  A Village in the Krishna Delta (PartB)", "Dokur  A Village on the Plateau", "Penugolu  A Village on the Hills", "From Gathering Food to Growing Food The Earliest People", "Agriculture in Our Times", "Trade in Agricultural Produce PartA", "Trade in Agricultural Produce  Part B", "Community Decision Making in a Tribe", "Emergence of Kingdoms and Republics", "First Empires", "Democratic Government", "Village Panchayats", "Local Self  Government in Urban Areas", "Diversity in Our Society", "Towards Gender Equality", "Religion and Society in Early Times", "Devotion and Love towards God", "Language, Writing and Great Books", "Sculptures and Buildings", "Greenery in Telangana"]
+      },
+      "English": {
+        "chapters": ["Peace and Harmony", "I Want Peace (Poem)", "Grand Contest in the Forest", "Telangana, The Pride of the People", "In the Bazaars of Hyderabad (Poem)", "Bammera Pothana, the jewel of Telugu", "What Can a Dollar and Eleven Cents Do?", "A Nations Strength (Poem)", "Reading Wilma Rudolph", "An Adventure", "The Naughty Boy (Poem)", "Tanaji Malusare", "Plant a Tree", "If a Tree Could Talk (Poem)", "Children, Speak Up!", "Rip Van Winkle", "My Shadow (Poem)", "Gullivers Travels", "P.T. Usha, the Golden Girl", "Indian Cricket Team (Poem)", "Ranji's Wonderful Bat", "Half the Price", "The Sheiks White Donkey Feb 109-127"]
+      },
+      "Hindi": {
+        "chapters": ["आम लो लो आम!", "हमारा गाँव", "रेलवे स्टेशन", "बाज़ार", "मेरा परिवार", "चिड़ियाघर", "मेहमान", "बाल दिवस", "खुशियों की दुनिया", "चुक्की और जब्बार", "उद्यान", "बच्चे चले क्रिकेट खेलने"]
+      },
+      "Telugu": {
+        "chapters": ["అభినందన", "స్నేహబంధం", "వర్షం", "లేఖ", "శతకసుధ", "పోతన బాల్యం", "ఉడుత సాయం", "చెరువు", "చీమలబారు", "బాలనాగమ్మ", "పల్లెటూరి పిల్లగాడా!", "కాపాడుకుందాం"]
+      }
+    },
+    "class7": {
+      "Maths": {
+        "chapters": ["Integers", "Fractions, Decimals and Rational Numbers", "Simple Equations", "Lines and Angles", "Triangles and its Properties", "Ratio-Applications", "Data Handling", "Congruency of Triangles", "Construction of Triangles", "Algebraic Expressions", "Exponents", "Quadrilaterals", "Area and Perimeter", "Understanding 3D and 2D Shapes", "Symmetry"]
+      },
+      "Science": {
+        "chapters": ["Food Components", "Acids and Bases", "Silk-Wool", "Motion and Time", "Heat- Measurement", "Weather and Climate", "Electricity", "Air, Winds and Cyclones", "Reflection of Light", "Nutrition in Plants", "Respiration in Organisms", "Reproduction in Plants", "Seed Dispersal", "Water", "Soil: Our Life", "Forest: Our Life", "Changes Arounds Us"]
+      },
+      "Social Studies": {
+        "chapters": ["Reading Maps of Different kinds", "Rain and Rivers", "Tanks and Ground Water", "Oceans and Fishing", "Europe", "Africa", "Handicrafts and Handlooms", "Industrial Revolution", "Production in a Factory - A Paper Mill", "Importance of Transport System", "New Kings and Kingdoms", "The Kakatiya's - Emergence of a Regional Kingdom, “The Kings of Vijayanagara”, “Mughal Empire", "Establishment of the British Empire in India", "Making of Laws in the State Assembly", "Implementation of Laws in the District", "Caste Discrimination and the Struggle for Equalities", "Livelihood and Struggles of Urban Workers", "Folk - Religion", "Devotional Paths to the Divine", "Rulers and Buildings"]
+      },
+      "English": {
+        "chapters": ["The Town Mouse and the Country Mouse", "The Town Child & The Country Child", "The New Blue Dress", "C.V. Raman, the Pride of India", "Its Change...", "Susruta, an Ancient Plastic Surgeon", "Puru, the Brave", "Home They Brought Her Warrior Dead", "The Magic of Silk", "Tenali Paints a Horse", "Dear Mum", "The Emperors New Clothes", "A Trip to Andaman", "My Trip to the Moon", "Sindbad, the Sailor", "A Hero", "My Nasty Adventure", "Learn How to Climb Trees", "The Wonderful World of Chess", "Chess", "Koneru Humpy", "Snakes in India", "Trees", "A Letter from Mother Earth"]
+      },
+      "Hindi": {
+        "chapters": ["मन करता है (कविता)", "सच्चा दोस्त (कहानी)", "हिंदी दिवस (संवाद)", "अपना प्यारा भारत देश (कविता)", "आसमान गिरा (कहानी)", "छुट्टी पत्र (पत्र)", "चारमीनार (कविता)", "हमारे त्योहार (संवाद)", "गुड़िया (आत्मकथा)", "कबीर के दोहे (कविता)", "साहसी सुनिता (कहानी)", "आत्मविश्वास (कहानी)"]
+      },
+      "Telugu": {
+        "chapters": ["చదువు", "నాయనమ్మ", "శతక సుధ", "అమ్మ జ్ఞాపకాలు", "పల్లె అందాలు", "ప్రేరణ", "శిల్పి", "గ్రామాలలోని వేడుకలు, క్రీడావినోదాలు", "ఏ కులం?", "సీత ఇష్టాలు", "శ్రీలు పొంగిన జీవగడ్డ", "రాణి శంకరమ్మ"]
+      }
+    },
+    "class8": {
+      "Maths": {
+        "chapters": ["Rational Numbers", "Linear Equation in One Variable", "Construction of Quadrilaterals", "Exponents and Powers", "Comparing Quantities Using Proportion", "Square Roots and Cube Roots", "Frequency Distribution Tables and Graphs", "Exploring Geometrical Figures", "Area of Plane Figures", "Direct and Inverse Proportions", "Algebraic Expressions", "Factorisation", "Visualizing 3-D in 2-D", "Surface Area and Volume(Cube-Cuboid)", "Playing with Numbers"]
+      },
+      "Physical Science": {
+        "chapters": ["Force", "Friction", "Synthetic Fibres and Plastics", "Metals and non-metals", "Sound", "Reflection of Light at Plane Surfaces", "Coal and Petroleum", "Combustion, Fuels and Flame", "Electric Conductivity of Liquids", "Some Natural Phenomena", "Stars and Solar System", "Graphs of Motion"]
+      },
+      "Biology": {
+        "chapters": ["What is Science?", "Cell- The Basic Unit of Life", "The World of Microorganisms Part I & II", "Reproduction in Animals", "The Age of Adolescence", "Biodiversity and its Conservation", "Different Ecosystems", "Production of Food from Plants", "Production of Food from Animals", "Not for Breathing Not for Drinking", "why do we fall ill?"]
+      },
+      "Social Studies": {
+        "chapters": ["Reading and Analysis of Maps", "Energy from the Sun", "Earth Movements and Seasons", "The Polar Regions", "Forests: Using and Protecting", "Minerals and Mining", "Money and Banking", "Impact of Technology on Livelihoods", "Public Health and the Government", "Landlords and Tenants under the British and the Nizam", "National Movement - The Early Phase 1885-1919", "National Movement - The Last Phase 1885-1919", "Freedom Movement in Hyderabad State", "The Indian Constitution", "Parliament and Central Government", "Law and Justice- A Case Study", "Abolition of Zamindari System", "Understanding Poverty", "Rights Approach to Development", "Social and Religious Reform Movements", "Understanding Secularism", "Performing Arts and Artistes in Modern Times", "Film and Print Media", "Sports: Nationalism and Commerce", "Disaster Management"]
+      },
+      "English": {
+        "chapters": ["The Tattered Blanket", "My Mother (Poem)", "A Letter to a Friend", "Oliver Asks for More", "The Cry of Children (Poem)", "Reaching the Unreached", "The Selfish Giant - Part I (One-Act Play)", "The Selfish Giant - Part II (One-Act Play)", "The Garden Within (Poem)", "The Fun They Had", "Preteen Pretext (Poem)", "The Computer Game (One-Act Play)", "The Treasure Within - Part I", "The Treasure Within - Part II", "They Literally Build the Nation", "The Story of Ikat", "The Earthen Goblet (Poem)", "Maestro with a Mission", "Bonsai Life - Part I", "Bonsai Life - Part II", "I Can Take Care of Myself", "Dr. Dwarakanath Kotnis", "Be Thankful (Poem)", "The Dead Rat"]
+      },
+      "Hindi": {
+        "chapters": ["बरसते बादल", "लाख की चूड़ियाँ", "बस की यात्रा", "दीवानों की हस्ती", "चिट्ठियों की अनूठी दुनिया", "अरमान", "कामचोर", "क्या निराश हुआ जाए", "कबीर की साखियाँ", "जब सिनेमा ने बोलना सीखा", "सुदामा चरित्र", "जहाँ पहिया है", "प्राणी की कहानी", "हमारा संकट", "सूरदास के पद", "बाज और साँप"]
+      },
+      "Telugu": {
+        "chapters": ["త్యాగనిరతి", "షోయబుల్లాఖాన్", "బండారి బసవన్న", "అసామాన్యులు", "శతక సుధ", "తెలుగు జానపద గేయాలు", "మంజీర", "చిన్నప్పుడే", "అమరులు", "సింగరేణి", "కాపుబిడ్డ", "మాట్లాడే నాగలి"]
+      }
+    },
+    "class9": {
+      "Maths": {
+        "chapters": ["Real Numbers", "Polynomials and Factorisation", "The Elements of Geometry", "Lines and Angles", "Co-ordinate Geometry", "Linear Equation in Two Variables", "Triangles", "Quadrilaterls", "Statistics", "Surface areas and Volumes", "Areas", "Circles", "Geometrical Constructions", "Probability", "Proofs in Mathematics Revision"]
+      },
+      "Physical Science": {
+        "chapters": ["Matter Around us", "Motion", "Laws of Motion", "Refraction of Light at Plane Surface", "Gravitation", "Is matter Pure", "Atoms and Molecules and Chemical Reactions", "Floating Bodies", "What is Inside Atom", "Work and Energy", "Heat", "Sound"]
+      },
+      "Biology": {
+        "chapters": ["Cell its structure and functions", "Plant Tissues", "Animal Tissues", "Plasma Membrane", "Diversity in living Organisms", "Sense Organs", "Animal Behaviour", "Challenges in Improving Agricultural Products", "Adaptations in Different Ecosystems", "Soil Pollution", "Bio-geo-Chemical Cycles"]
+      },
+      "Social Studies": {
+        "chapters": ["Our Earth", "The Natural Realms of the Earth - Lithosphere", "Hydrosphere", "Atmosphere", "Biosphere", "Agriculture in India", "Industries in India", "Service Activities in India", "Credit in the Financial System", "Prices and Cost of Living", "The Government Budget and Taxation", "Democratic and Nationalist Revolutions: 17th, 18th & 19th Centuries", "Industrialisation and Social Change", "Social Protest Movements", "Colonialism in Latin America, Asia and Africa", "Impact of Colonialism in India", "Expansion of Democracy", "Democracy: An Evolving Idea", "Human Rights and Fundamental Rights", "Women Protection Acts", "Disaster Management", "Traffic Education"]
+      },
+      "English": {
+        "chapters": ["The Snake and the Mirror", "The Duck and the Kangaroo (Poem)", "Little Bobby", "True Height", "What Is a Player? (Poem)", "V.V.S. Laxman, Very Very Special", "Swami Is Expelled from School", "Not Just a Teacher, but a Friend (Poem)", "Homework", "What Is Man Without the Beasts?", "The River (Poem)", "Can’t Climb Trees Anymore", "A Havoc of Flood", "Grabbing Everything on the Land (Poem)", "The Ham Radio", "A Long Walk to Freedom", "Where the Mind is Without Fear(Poem)", "An Icon of Civil Rights", "The Trial", "Antony’s Speech (Poem)", "Mahatma Gandhi, Pushed out of Train", "The Accidental Tourist", "Father Returning Home (Poem)", "Kathmandu"]
+      },
+      "Hindi": {
+        "chapters": ["जिस देश में गंगा बहती है", "गाने वाली चिड़ीया", "बदलें अपनी सोच", "प्रकृति की सीख", "फुटबॉल", "बेटी के नाम पत्र", "मेरा जीवन", "यक्ष प्रश्न", "रमज़ान", "अमर वाणी", "सुनीता विलियम्स", "जागो ग्राहक जागो!"]
+      },
+      "Telugu": {
+        "chapters": ["వలసకూలీ", "రంగాచార్యతో ముఖాముఖి", "శతక మధురిమ", "దీక్షకు సిద్ధంకండి", "చెలిమి", "ఉద్యమ స్ఫూర్తి", "కోరస్", "వాగ్భూషణం", "వాయసం", "తీయని పలకరింపు"]
+      }
+    },
+    "class10": {
+      "Maths": {
+        "chapters": ["Real Numbers", "Sets", "polynomials", "Pair of Linear Equations in Two Variables", "Quadratic Equations", "Progressions", "Coordinate Geometry", "Similar Triangles", "Tangents and Secants to a Circle", "Mensuration", "Trigonometry", "Applications of Trigonometry", "Probability", "Statistics"]
+      },
+      "Physical Science": {
+        "chapters": ["Reflection of Light at curved Surfaces", "Chemical Equations", "Acids, bases  and Salts", "Refraction of light at Curved Surfaces", "Human Eye and Colourful world", "Structure of Atom", "Classification of Elements- The Periodic Table", "Chemical Bonding", "Electric Current", "Electromagnetism", "Principles of Metallurgy", "Carbon and its Compounds"]
+      },
+      "Biology": {
+        "chapters": ["Nutrition -Food Supplying System", "Respiration -The Energy Releasing System", "Transportation -The Circulatory System", "Excretion-The Wastage Disposing System", "Coordination-The Linking System", "Reproduction-The Generating System", "Coordination in Life Processes", "Heredity and Evolution", "Our Environment- Our Concern", "Natural Resources"]
+      },
+
+      "Social Studies": {
+        "chapters": ["India: Relief Features", "Ideas of Development", "Production and Employment", "Climate of India", "Indian Rivers and Water Resources", "India  Population", "Settlements  Migrations", "Rampur  A Village Economy", "Globalisation", "Food Security", "Sustainable Development with Equity", "World Between the World Wars", "National Liberation Movements in the Colonies", "National Movement in India-Partition & Independence: 1939 to 1947", "The Making of Independent Indias Constitution", "Election Process in India", "Independent India (The First 30 years 1949 to 77)", "Emerging Political Trends 1977 to 2000", "Post  War World and India", "Social Movement in Our Times", "The Movement for the Formation of Telangana State"]
+      },
+      "English": {
+        "chapters": ["Attitude is Altitude Biography", "Every Success Story is also a Story of Great Failures (Essay)", "I Will Do It (Biography) by Sudha Murthy", "The Dear Departed (Play Part-1)", "The Dear Departed (Play Part-2)", "The Brave Potter", "The Journey (Narrative)", "Another Woman (Poem)", "The Never-Never Nest (Play)", "Rendezvous with Ray (Essay)", "Maya Bazaar (Review)", "A Tribute (Essay)", "The Storeyed House (Part 1)", "The Storeyed House (Part 2)", "Abandoned (Poem)", "Environment", "Or Will the Dreamer Wake? (Poem)", "A Tale of Three Villages", "My Childhood", "A Plea for India (Poem)", "Unity in Diversity in India", "Jamaican Fragment", "Once Upon a Time (Poem)", "What is My Name?"]
+      },
+      "Hindi": {
+        "chapters": ["बरसते बादल", "ईदगाह", "मां मुझे आने दे!", "कण-कण का अधिकारी", "लोकगीत", "अंतरराष्ट्रीय स्तर पर हिंदी", "भविष्य पद", "स्वराज्य का गीत", "दक्षिणी गंगा गोदावरी", "नीति दोहे", "जल ही जीवन है", "धरती के सवाल अंतरिक्ष के जवाब"]
+      },
+      "Telugu": {
+        "chapters": ["దానశీలము", "ఎవరి భాష వాళ్లకు వినసొంపు", "వీర తెలంగాణ", "కొత్తబాట", "నగరగీతం", "భాగ్యోదయం", "శతక మధురిమ", "లక్ష్యసిద్ధి", "జీవనభాష్యం", "గోలకొండ పట్టణము", "భిక్ష", "భూమిక"]
+      }
+    },
+    "class11": {
+      "MathsA": {
+        "chapters": ["Sets and Functions", "Calculus", "Probability"]
+      },
+      "MathsB": {
+        "chapters": ["Trigonometry", "Coordinate Geometry", "Matrices"]
+      },
+      "Physics": {
+        "chapters": ["Thermodynamics", "Waves and Oscillations", "Optics"]
+      },
+      "Chemistry": {
+        "chapters": ["Organic Chemistry", "Chemical Bonding", "Equilibrium"]
+      },
+      "Zoology": {
+        "chapters": ["Human Anatomy", "Animal Physiology", "Reproductive Biology"]
+      },
+      "Botany": {
+        "chapters": ["Plant Morphology", "Photosynthesis", "Plant Physiology"]
+      }
+    },
+    "class12": {
+      "MathsA": {
+        "chapters": ["Differential Equations", "Integration", "Probability"]
+      },
+      "MathsB": {
+        "chapters": ["Vectors", "3D Geometry", "Linear Programming"]
+      },
+      "Physics": {
+        "chapters": ["Electromagnetism", "Modern Physics", "Nuclear Physics"]
+      },
+      "Chemistry": {
+        "chapters": ["Biomolecules", "Electrochemistry", "Chemical Kinetics"]
+      },
+      "Zoology": {
+        "chapters": ["Evolution", "Human Health and Diseases", "Ecology"]
+      },
+      "Botany": {
+        "chapters": ["Genetics", "Plant Biotechnology", "Environmental Biology"]
+      }
+    }
+  }
+}
+
+  

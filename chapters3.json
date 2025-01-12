@@ -1,0 +1,46 @@
+{
+    "data": {
+      "class6": {
+        "Maths": {
+          "chapters": [
+            { "name": "Knowing our numbers", "image": "https://example.com/images/knowing_our_numbers.jpg" },
+            { "name": "Whole numbers", "image": "https://example.com/images/whole_numbers.jpg" },
+            { "name": "Playing with numbers", "image": "https://example.com/images/playing_with_numbers.jpg" },
+            { "name": "Basic Geometrical Ideas", "image": "https://example.com/images/basic_geometrical_ideas.jpg" },
+            { "name": "Measures of Lines and Angles", "image": "https://example.com/images/measures_of_lines_and_angles.jpg" },
+            { "name": "Integers", "image": "https://example.com/images/integers.jpg" },
+            { "name": "Fractions and Decimals", "image": "https://example.com/images/fractions_and_decimals.jpg" },
+            { "name": "Data Handling", "image": "https://example.com/images/data_handling.jpg" },
+            { "name": "Introduction to Algebra", "image": "https://example.com/images/introduction_to_algebra.jpg" },
+            { "name": "Perimeter and Area", "image": "https://example.com/images/perimeter_and_area.jpg" },
+            { "name": "Ration and Proportion", "image": "https://example.com/images/ration_and_proportion.jpg" },
+            { "name": "Symmetry", "image": "https://example.com/images/symmetry.jpg" },
+            { "name": "Practical Geometry", "image": "https://example.com/images/practical_geometry.jpg" },
+            { "name": "Understanding 3D and 2D Shapes", "image": "https://example.com/images/understanding_3d_and_2d_shapes.jpg" }
+          ]
+        },
+        "Science": {
+          "chapters": [
+            { "name": "Our Food", "image": "https://example.com/images/our_food.jpg" },
+            { "name": "Playing With Magnets", "image": "https://example.com/images/playing_with_magnets.jpg" },
+            { "name": "Rain: Where Does It Come From?", "image": "https://example.com/images/rain_where_does_it_come_from.jpg" },
+            { "name": "What Do Animals Eat?", "image": "https://example.com/images/what_do_animals_eat.jpg" },
+            { "name": "Materials and Things", "image": "https://example.com/images/materials_and_things.jpg" },
+            { "name": "Habitat", "image": "https://example.com/images/habitat.jpg" },
+            { "name": "Separation of Substances", "image": "https://example.com/images/separation_of_substances.jpg" },
+            { "name": "Fibre to Fabric", "image": "https://example.com/images/fibre_to_fabric.jpg" },
+            { "name": "Plants: Parts and Functions", "image": "https://example.com/images/plants_parts_and_functions.jpg" },
+            { "name": "Changes Arounds Us", "image": "https://example.com/images/changes_around_us.jpg" },
+            { "name": "Water in Our Life", "image": "https://example.com/images/water_in_our_life.jpg" },
+            { "name": "Simple Electric Circuits", "image": "https://example.com/images/simple_electric_circuits.jpg" },
+            { "name": "Learning How to Measure", "image": "https://example.com/images/learning_how_to_measure.jpg" },
+            { "name": "Movements in Animals", "image": "https://example.com/images/movements_in_animals.jpg" },
+            { "name": "Light, shadows and Images", "image": "https://example.com/images/light_shadows_and_images.jpg" },
+            { "name": "Living and non-Living", "image": "https://example.com/images/living_and_non_living.jpg" }
+          ]
+        }
+      }
+      
+    }
+  }
+  
